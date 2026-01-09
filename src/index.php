@@ -5,7 +5,7 @@ $password = "mysecret";
 
 try {
     // Connect to the notes database
-    $dbname = "notesdb";
+    $dbname = "testdb";
     $conn = new PDO("mysql:host=$server;dbname=$dbname", $username, $password);
     $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
