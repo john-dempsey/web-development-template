@@ -10,6 +10,7 @@
 <body>
     <div class="back-link">
         <a href="index.php">&larr; Back to PHP Introduction</a>
+        <a href="/exercises/01-php-introduction/06-scope.php">Go to Exercise &rarr;</a>
     </div>
 
     <h1>Scope</h1>

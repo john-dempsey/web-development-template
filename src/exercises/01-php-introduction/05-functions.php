@@ -7,8 +7,9 @@
     <link rel="stylesheet" href="/exercises/css/style.css">
 </head>
 <body>
-    <div>
+    <div class="back-link">
         <a href="index.php">&larr; Back to PHP Introduction</a>
+        <a href="/examples/01-php-introduction/05-functions.php">View Example &rarr;</a>
     </div>
 
     <h1>Functions Exercises</h1>

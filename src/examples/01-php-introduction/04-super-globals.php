@@ -10,6 +10,7 @@
 <body>
     <div class="back-link">
         <a href="index.php">&larr; Back to PHP Introduction</a>
+        <a href="/exercises/01-php-introduction/04-super-globals.php">Go to Exercise &rarr;</a>
     </div>
 
     <h1>Super Globals</h1>
