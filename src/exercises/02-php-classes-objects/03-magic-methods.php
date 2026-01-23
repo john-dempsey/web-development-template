@@ -77,5 +77,31 @@
         ?>
     </div>
 
+    <!-- Exercise 4 -->
+    <h2>Exercise 4: Add __destruct()</h2>
+    <p>
+        <strong>Task:</strong>
+        Add a <code>__destruct()</code> method to your Student class that prints
+        "Student [name] has left the system" when the object is destroyed.
+    </p>
+    <p>
+        Create two students, then set one of them to <code>null</code>. Observe when
+        the destructor messages appear. Notice that the second student's destructor
+        is called automatically when the script ends.
+    </p>
+
+    <p class="output-label">Output:</p>
+    <div class="output">
+        <?php
+        // TODO: Write your solution here
+        // require_once __DIR__ . '/classes/Student.php';
+        // $student1 = new Student("Alice", "S001");
+        // $student2 = new Student("Bob", "S002");
+        // echo "Setting student1 to null...<br>";
+        // $student1 = null;
+        // echo "Script ending...<br>";
+        ?>
+    </div>
+
 </body>
 </html>
