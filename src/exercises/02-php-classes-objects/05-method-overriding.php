@@ -51,6 +51,10 @@
         <li>Have getter methods for supervisor and topic</li>
         <li>Override <code>__toString()</code> to return "Postgrad: [name] ([number]), Supervisor: [supervisor], Topic: [topic]"</li>
     </ul>
+    <p>
+        Create a Postgrad object and echo it to see the output from your overridden
+        <code>__toString()</code> method.
+    </p>
 
     <p class="output-label">Output:</p>
     <div class="output">
